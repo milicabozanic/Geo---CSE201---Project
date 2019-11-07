@@ -4,10 +4,9 @@ CSE201 PROJECT:
 
    # GeoBachelor
 
-    The GeoBachelor is the project  program simulate the game of sudoku.
+    The GeoBachelor is the project that will interpret the program GeoGebra.
 
-    The game generates a sudoku puzzle and allow the user to insert the
-    solution for the puzzle.
+    [More abou project will be written soon]
 
     ## Members (name surname, github username, [role])
 
