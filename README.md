@@ -6,7 +6,7 @@ CSE201 PROJECT:
 
     The GeoBachelor is the project that will interpret the program GeoGebra.
 
-    [More abou project will be written soon]
+    [More about project will be written soon]
 
     ## Members (name surname, github username, [role])
 
