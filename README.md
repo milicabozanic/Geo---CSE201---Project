@@ -20,13 +20,12 @@ CSE201 PROJECT:
 
 
 Contributors:
+   -Bogdan (team leader)
+   -Makram (GIT)
+   -Milica (organization)
+   -Aya
+   -Farah
+   -Kaylynn
+   -Gautier
 
--Bogdan (team leader)
--Makram (GIT)
--Milica (organization)
--Aya
--Farah
--Kaylynn
--Gautier
--
 
