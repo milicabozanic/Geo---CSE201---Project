@@ -11,21 +11,12 @@ CSE201 PROJECT:
 
     ## Members (name surname, github username, [role])
 
-    - Stephane Redon, StephaneRedon, project leader
-    - Sergio Mover, smover, ide leader
-    - Fabio Roda, froline, git leader
-    - Eleonore Bellot, ebellot
-    - Mohammed Hawari, mhawari
-
-
-
-Contributors:
-   -Bogdan (team leader)
-   -Makram (GIT)
-   -Milica (organization)
-   -Aya
-   -Farah
-   -Kaylynn
-   -Gautier
-
-
+    - Bogdan Raonic, bogdanraonic, team leader
+    - Milica Bozanic, milicabozanic, ide leader
+    - Makram Loughman , makramloughman, git leader
+    - Gautier Aassaire
+    - Aya Hankir, ayahankir
+    - Meryem Bennani, MeryemBennani
+    - Farah El-Euch, faraheleuch
+    - Naya Khalil
+    - Kaylynn Pellicer
